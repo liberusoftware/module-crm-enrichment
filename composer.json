@@ -1,5 +1,1 @@
-{"name":"liberusoftware/module-crm-enrichment","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Enrichment\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Enrichment\\EnrichmentServiceProvider"]},"liberu":{"name":"crm-enrichment"}},
-    "require": {
-        "liberusoftware/module-organizations-teams": "^1.0"
-    }
-}
+{"name":"liberusoftware/module-crm-enrichment","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\Enrichment\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\Enrichment\\EnrichmentServiceProvider"]},"liberu":{"name":"crm-enrichment"}},"description":"Company and contact enrichment with provenance and verification","license":"MIT"}
